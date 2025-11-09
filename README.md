@@ -1,5 +1,5 @@
 # Statistics #
-<div align="center">
+<div style="text-align:center;">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueljzrobinson&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
 
